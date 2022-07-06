@@ -1,5 +1,5 @@
 # NORDVPN-Gnome-22-04
-<img align="right" src="img/screenshot.png">
+<img align="right" src="img/screenshot2.png">
 A Gnome extension that shows the NordVPN status in the top bar, features a menu showing the current status and a button to Connect / Disconnect, in addition to other functionality.
 
 ###### Note
