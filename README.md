@@ -27,7 +27,7 @@ This extension uses the NordVPN command line client, which can be set up as foll
 3. Check NordVPN is set up with `nordvpn c`, if it connects successfully then you're good to go.
 
 Install the extension
-Easiest way: enable on gnome-extensions at [NORDVPN Gnome 22.04 on gnome extensions]()
+Easiest way: enable on gnome-extensions at [NORDVPN Gnome 22.04 on gnome extensions](https://extensions.gnome.org/extension/5195/nordvpn-gnome-22-04/)
 
 Manual install:  
 1. Create a folder for the extension with `mkdir ~/.local/share/gnome-shell/extensions/nordvpn-gnome-22-04@jikama`
