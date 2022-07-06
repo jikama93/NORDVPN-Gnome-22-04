@@ -1,1 +1,1 @@
-# NORDVPN-Gnome-Extension-Ubuntu-22.04
+# NORDVPN-Gnome-22-04
