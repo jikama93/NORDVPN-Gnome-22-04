@@ -1,0 +1,12 @@
+{
+  "name": "NORDVPN-Gnome-22-04",
+  "description": "A Gnome extension that shows the NordVPN status in the top bar and provides the ability to configure certain aspects of the connection, fixed for new Ubuntu 22.04 version.",
+  "uuid": "nordvpn-gnome-22-04@jikama",
+  "shell-version": [
+    "40",
+    "41",
+    "42"
+  ],
+  "url": "https://github.com/jikama93/NORDVPN-Gnome-22-04",
+  "version": 11
+}
